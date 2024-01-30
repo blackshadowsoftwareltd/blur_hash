@@ -2,8 +2,9 @@
 
 ## Dimensions Calculation
 
-`>` `pixels` will be `min` and `max` will be calculated
-`<` `pixels` will be `max` and `min` will be calculated
+- `>` `pixels` will be `min` and `max` will be calculated
+
+- `<` `pixels` will be `max` and `min` will be calculated
 
 ```rust
 fn dimensions(w: u32, h: u32) -> (u32, u32) {
