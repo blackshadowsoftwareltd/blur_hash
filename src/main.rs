@@ -33,7 +33,7 @@ fn main() {
 }
 
 fn dimensions(w: u32, h: u32) -> (u32, u32) {
-    let pixels = 50; // ? 100x100 pixels
+    let pixels = 50; // ? 50 pixels
 
     // ? ">" ? pixels will be min and max will be calculated
     // ? "<" ? pixels will be max and min will be calculated
